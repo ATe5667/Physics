@@ -1,6 +1,12 @@
 # Physics
 Collection of physics simulation programs
 
+## Projectile Motion
+### Running
+1) Download the file "Projectile Motion.jar"
+2) Open the folder where the file has been downloaded
+3) Double-click on "Projectile Motion.jar"
+
 ## Newton's Cradle
 ### Running
 1) Download the file "NewtonsCradle.jar"
